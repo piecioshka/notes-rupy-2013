@@ -37,4 +37,10 @@ Application-later protocols that use TCP:
 - char: IRC, XMPP/jabber
 - email: SMTP, POP3, IMAP
 
+What does my compiuter say to python.org?
+-----------------------------------------
+
+HTTP
+
+
 
