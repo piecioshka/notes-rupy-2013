@@ -13,6 +13,7 @@ Learning that a name was imprecise is knowledge and that knowledge soulg
 be available.
 
 Guideline:
+----------
 
 For stuff that doeas something, use a verb.
 
@@ -32,7 +33,8 @@ namespaces are one honking great idea
 
 let's do more of these!
 
-h5. Exception:
+Exception:
+----------
 
 in an object oriented language everyone knows the world new...
 
@@ -40,6 +42,6 @@ Sin of Synecdoche
 
 “The X11 library uses a leading X for all its public functions. In Python, this style is generally deemed unnecessary”
 
+@brandon_rhodes<br />
 sources: http://pycon.github.io/2013-slides/Naming%20Ducks%20by%20Brandon%20Rhodes/
 
-@brandon_rhodes

@@ -9,7 +9,7 @@ IMMUTABILITY IN CLOJURE, RUBY, JAVASCRIPT, AND PYTHON - TERO PARVIAINEN
  * JavaScript with Object.freeze is immutable
  * Closure - 3000 points
    
-@terapa
-http://is.gd/vertxbook
+@terapa<br />
+http://is.gd/vertxbook<br />
 http://clojurecup.com
 

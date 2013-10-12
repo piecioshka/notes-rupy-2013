@@ -1,7 +1,8 @@
 PENSTACK DEVELOPMENT: HOW WE BUILD IT AND HOW YOU CAN HELP - CODY SOMERVILLE
-====================================================================================
+============================================================================
 
-h3. The platform ecosystem
+The platform ecosystem
+----------------------
 
 - 16333 unique contributors from more than 50 different companies over
 the life of the project.
@@ -24,8 +25,11 @@ Submitting a change
 `$ git review`
 
 Automated QA
+------------
 
 Communication
+-------------
+
 - lanuchpad (bugs and blueprints)
 - etherpad
 - irs

@@ -10,12 +10,13 @@ DDD is technic evented in 2002 (Domain Driven Design)
 
 Ubiquitous language
 Bounded context
-
 Entity and value object
-< DB model:
-Customer is entitiy
 
-Doman event
+DB model:
+---------
+
+- Customer is entitiy
+- Doman event
 
 WE CAN DO MORE!!!
 

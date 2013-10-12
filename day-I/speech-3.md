@@ -1,7 +1,8 @@
 BUILDING A EUROPEAN PAAS WITH CLOUD FOUNDRY - JULIAN FISCHER
 ============================================================
 
-h3. Master 3 terms:
+Master 3 terms:
+---------------
 
 * IaaS
 * PaaS
@@ -16,10 +17,14 @@ DEA
 droplet = dea.staging(app_code)
 
 Health Manager
+--------------
+
 - comprares desired system state with instances are
 - routes incoming requests to the right DEAs
 
 Services
+--------
+
 - create serivce = provision
 - bind - create credentials
 
