@@ -60,3 +60,9 @@ Dat patch
 - hierarchucal method cache invaliddtion
 - method cache instrumentation
 
+Get the code
+------------
+
+- rvm install jamesgolick
+- git clone ... jamesgolick/ruby.git
+- http://github.com/jamesgolick/ruby
