@@ -66,3 +66,4 @@ Get the code
 - rvm install jamesgolick
 - git clone ... jamesgolick/ruby.git
 - http://github.com/jamesgolick/ruby
+

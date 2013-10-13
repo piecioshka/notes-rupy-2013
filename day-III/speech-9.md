@@ -1,7 +1,7 @@
 BUILDING RUBY IN PYTHON - ALEX GAYNOR
 -------------------------------------
 
-why?
+Why?
 a story...
 
 'Ruby is slow'
@@ -64,7 +64,9 @@ http://topazruby.com
 - incomplete
 - cant run much real ruby code
 
-feature
+Feature
+-------
+
 - run more ruby code (eg, gem, rails)
 - interoperability with python
 

@@ -10,7 +10,7 @@ We have a soulution...
 
 Batteries included - COMMUNITY
 
-building a community is hard
+Building a community is hard
 ----------------------------
 
 - hard to get started
@@ -20,7 +20,7 @@ building a community is hard
 - costs u money
 - harir ;-)
 
-bricks
+Bricks
 ------
 
 - respect
@@ -34,5 +34,5 @@ Share!
 
 - share becouse you care
 - helps to improve your code and yourself
- - you will share your little secrets
+- you will share your little secrets
 

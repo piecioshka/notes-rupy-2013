@@ -19,8 +19,9 @@ CanCan - so popular
 Controller nesting context
 --------------------------
 
-Concenr:
+Concern:
 --------
+
 - presenter 
 - cancan 
 (strong parameters)
